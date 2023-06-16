@@ -1,0 +1,38 @@
+.flex {
+  display: flex;
+  margin-left: 30%;
+  border: 1px solid black;
+  margin-right: 20%;
+  margin-bottom: 10%;
+}
+.contact {
+  margin-left: 10%;
+  margin-top: 9%;
+  padding: 1%;
+}
+.cantainer {
+  margin-left: 70%;
+  border: 1px solid black;
+  margin-left: 30%;
+}
+.event {
+  margin-left: 55%;
+}
+.even {
+  margin-left: 50%;
+}
+.image {
+  margin-left: 7%;
+  margin-top: 7%;
+  margin-bottom: 7%;
+}
+.button {
+  margin-bottom: 10%;
+  margin-left: 50%;
+}
+.buttons {
+  margin-left: 10%;
+}
+.one {
+  padding: 5%;
+}
